@@ -1,6 +1,6 @@
 project_id    = "muratbekuulu-gc-bootcamp1"
 region        = "europe-west3"
-zone          = "europe-west3-a"
+zone          = "europe-west3-b"
 instance_name = "cmtr-f1u79s6m-vm"
 vpc_name      = "cmtr-f1u79s6m-vpc"
 firewall_tag  = "cmtr-f1u79s6m-ssh"
